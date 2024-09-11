@@ -74,7 +74,7 @@ Creates a Streamlit web application for the currency converter.
 
 1.	Clone the repository:
 
-    git clone https://github.com/your-username/currency-converter.git
+    git clone https://github.com/mahnazghssm/currency-converter.git
     cd currency-converter
 
 2.	Install the required packages:
